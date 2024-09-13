@@ -1,2 +1,4 @@
-# Pruebas_en_Bluetooth
-Un proyecto actualemente descartado en el que se experimento con la biblioteca de 32feet
+# Bluetooth_Tests
+An currently discarted proyect with some experiments with the 32feet library
+
+Just some tests of the 32feet library for the lily's flower project of Anthos_tech
