@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\bin\Debug\WindowsFormsBL.exe.config
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\bin\Debug\WindowsFormsBL.exe
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\bin\Debug\WindowsFormsBL.pdb
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\bin\Debug\Bluetooth_Forms.dll
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\bin\Debug\Bluetooth_Forms.pdb
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsFormsBL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsFormsBL.Form2.resources
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsFormsBL.Properties.Resources.resources
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsFormsBL.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsFormsBL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsF.2B03088D.Up2Date
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsFormsBL.exe
+C:\Users\admin\source\repos\Bluetooth_Forms\WindowsFormsBL\obj\Debug\WindowsFormsBL.pdb

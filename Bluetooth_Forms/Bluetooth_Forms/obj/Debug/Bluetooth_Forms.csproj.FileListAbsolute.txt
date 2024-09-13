@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\bin\Debug\Bluetooth_Forms.dll
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\bin\Debug\Bluetooth_Forms.pdb
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\obj\Debug\Bluetooth_Forms.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\obj\Debug\Bluetooth_Forms.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\obj\Debug\Bluetoot.9CAE5131.Up2Date
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\obj\Debug\Bluetooth_Forms.dll
+C:\Users\admin\source\repos\Bluetooth_Forms\Bluetooth_Forms\obj\Debug\Bluetooth_Forms.pdb
